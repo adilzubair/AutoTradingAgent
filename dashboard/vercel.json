@@ -3,6 +3,6 @@
     "outputDirectory": "dist",
     "framework": "vite",
     "env": {
-        "MAHORAGA_API_URL": "https://mahoraga.pagesofadil.workers.dev"
+        "VITE_MAHORAGA_API_URL": "https://mahoraga.pagesofadil.workers.dev"
     }
 }
