@@ -1,0 +1,8 @@
+{
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist",
+    "framework": "vite",
+    "env": {
+        "MAHORAGA_API_URL": "https://mahoraga.pagesofadil.workers.dev"
+    }
+}
